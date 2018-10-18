@@ -1,0 +1,8 @@
+=i{     aline c code
+
+c [     look into function
+c t     back from looking
+
+%       jump between function's opening and closing braces
+[{      beginning brace
+]}      closing brace
